@@ -1,0 +1,15 @@
+.primary-background {
+background: #135D66 !important;
+}
+.collapse {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+
+}
+
+.searchinput {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
